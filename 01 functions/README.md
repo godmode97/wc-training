@@ -13,4 +13,8 @@ Higher Order Function
 Immutable
 ---
 * an object that should not be mutated or the data must not be changed.
-* instead of changing the `data structure`, we create `copy` of the data structure and use them.
+* instead of changing the `data structure`, we create `copy` of the data structure and use them. - [immutable](https://github.com/godmode97/wc-training/blob/master/01%20functions/immutable.js)
+
+Pure
+---
+* a function that only accepts one argument and return a new value - [pure](https://github.com/godmode97/wc-training/blob/master/01%20functions/pure.js)

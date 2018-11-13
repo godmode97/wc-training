@@ -7,9 +7,11 @@ About
 
 Content
 ---
-* First Class Functions
-* Declarative Programming
-* Imperative Programming
+* Functional Programming [functions](https://github.com/godmode97/wc-training/blob/master/01%20functions/)
+  * First Class Functions - [first class](https://github.com/godmode97/wc-training/blob/master/01%20functions/first_class.js)
+  * Higher Order Functions - [higher order](https://github.com/godmode97/wc-training/blob/master/01%20functions/higher_order.js)
+  * Immutable Objects - [immutable](https://github.com/godmode97/wc-training/blob/master/01%20functions/immutable.js)
+  * Pure Functions - [pure](https://github.com/godmode97/wc-training/blob/master/01%20functions/pure.js)
 
 Up And Running
 ---
