@@ -1,0 +1,22 @@
+{
+  "name": "wc-training",
+  "version": "1.0.0",
+  "description": "React Training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godmode97/wc-training.git"
+  },
+  "author": "Neil Monzales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/godmode97/wc-training/issues"
+  },
+  "homepage": "https://github.com/godmode97/wc-training#readme",
+  "devDependencies": {
+    "eslint": "^5.9.0"
+  }
+}
