@@ -1,8 +1,15 @@
-
 /**
- * First class function
+ *
+ *
  */
 
+
+/**
+ *
+ * @param {*} operate
+ *
+ * functions can be a paramater
+ */
 
 const operation = operate => (num1, num2) => operate(num1, num2);
 
