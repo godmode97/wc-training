@@ -6,7 +6,7 @@ About
 - Will output learning improvements in this repository
 
 Content
-===
+---
 * First Class Functions
 * Declarative Programming
 * Imperative Programming
