@@ -22,3 +22,7 @@ Data Transformations - [source](https://github.com/godmode97/wc-training/blob/ma
 ---
 * transform data to a new one.
 * Uses pure functions to transform an object
+
+Recursion - [source](https://github.com/godmode97/wc-training/blob/master/01%20functions/recursion.js)
+---
+* a function that recalls itself.

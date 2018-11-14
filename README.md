@@ -13,6 +13,7 @@ Content
   * Immutable Objects - [source](https://github.com/godmode97/wc-training/blob/master/01%20functions#immutable)
   * Pure Functions - [source](https://github.com/godmode97/wc-training/blob/master/01%20functions#pure-functions)
   * Data Transformations - [source](https://github.com/godmode97/wc-training/blob/master/01%20functions#data-transformations)
+  * Recursion - [source](https://github.com/godmode97/wc-training/blob/master/01%20functions#recursion)
 
 Up And Running
 ---
