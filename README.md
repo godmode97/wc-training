@@ -7,11 +7,12 @@ About
 
 Content
 ---
-* Functional Programming [functions](https://github.com/godmode97/wc-training/blob/master/01%20functions/)
-  * First Class Functions - [first class](https://github.com/godmode97/wc-training/blob/master/01%20functions/first_class.js)
-  * Higher Order Functions - [higher order](https://github.com/godmode97/wc-training/blob/master/01%20functions/higher_order.js)
-  * Immutable Objects - [immutable](https://github.com/godmode97/wc-training/blob/master/01%20functions/immutable.js)
-  * Pure Functions - [pure](https://github.com/godmode97/wc-training/blob/master/01%20functions/pure.js)
+* Functional Programming [README](https://github.com/godmode97/wc-training/blob/master/01%20functions/)
+  * First Class Functions - [source](https://github.com/godmode97/wc-training/blob/master/01%20functions#first-class-functions)
+  * Higher Order Functions - [source](https://github.com/godmode97/wc-training/blob/master/01%20functions#higher-order-functions)
+  * Immutable Objects - [source](https://github.com/godmode97/wc-training/blob/master/01%20functions#immutable)
+  * Pure Functions - [source](https://github.com/godmode97/wc-training/blob/master/01%20functions#pure-functions)
+  * Data Transformations - [source](https://github.com/godmode97/wc-training/blob/master/01%20functions#data-transformations)
 
 Up And Running
 ---
