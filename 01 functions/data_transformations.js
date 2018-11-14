@@ -14,7 +14,7 @@ concatCitiesCopy.log('concatCitiesCopy');
 const joinedCities = cities.join(', ');
 
 cities.log('cities');
-console.log(joinedCities, 'joinedCities');
+joinedCities.log('joinedCities');
 
 // Array.filter is a pure function
 const filteredCities = cities.filter(city => city[0] === 'C');
@@ -29,7 +29,7 @@ mappedCitiesCopy.log('mappedCitiesCopy');
 // Array.pop() is not a pure function
 const poppedCitiesCopy = citiesCopy.pop();
 citiesCopy.log('citiesCopy.pop()');
-console.log(poppedCitiesCopy, 'poppedCitiesCopy');
+poppedCitiesCopy.log('poppedCitiesCopy');
 
 // Array.push() is not a pure function
 citiesCopy.push(poppedCitiesCopy);

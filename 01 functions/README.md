@@ -26,3 +26,7 @@ Data Transformations - [source](https://github.com/godmode97/wc-training/blob/ma
 Recursion - [source](https://github.com/godmode97/wc-training/blob/master/01%20functions/recursion.js)
 ---
 * a function that recalls itself.
+
+Composition - [source](https://github.com/godmode97/wc-training/blob/master/01%20functions/composition.js)
+---
+* putting all small functions (_pure functions_) together
