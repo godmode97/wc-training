@@ -31,3 +31,38 @@ $ node path_to_file/file.js
 
 - Neil James Monzales -  [godmode97](github.com/godmode97)
 
+File Folder Structure
+===
+  - React Directory Structure (`/src`)
+```bash
+.
+├── actions
+│   ├── action_creators.js
+│   ├── constants.js
+│   └── index.js
+├── components
+│   ├── forms
+│   │   └── index.js
+│   ├── index.js
+│   ├── layouts
+│   │   └── index.js
+│   └── page
+│       └── account
+│           └── index.js
+├── index.js
+├── lib
+│   └── helpers.js
+├── resources
+│   ├── css
+│   │   ├── index.css
+│   │   └── styles.css
+│   └── images
+│       ├── logo.svg
+│       └── somefile.svg
+├── serviceWorker.js
+├── store
+│   ├── index.js
+│   └── reducers.js
+└── tests
+    └── App.test.js
+```
