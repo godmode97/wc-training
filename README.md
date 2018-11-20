@@ -15,7 +15,8 @@ Content
   * Data Transformations - [source](https://github.com/godmode97/wc-training/blob/master/01%20functions#data-transformations)
   * Recursion - [source](https://github.com/godmode97/wc-training/blob/master/01%20functions#recursion)
   * Composition - [source](https://github.com/godmode97/wc-training/blob/master/01%20functions#composition)
-
+* React Best Practices - [reference](https://github.com/markerikson/react-redux-links/blob/master/react-architecture.md)
+  * React Best Practices and Patterns - [reference](http://seanamarasinghe.com/developer/react-best-practices-patterns/)
 Up And Running
 ---
 
