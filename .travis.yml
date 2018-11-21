@@ -1,0 +1,18 @@
+sudo: true
+os: osx
+language: node_js
+  - "6"
+before_install:
+  - npm install -g npm@6.4.1
+cache: npm
+scripts:
+  - cd todo-application
+  - npm install
+  - npm run build
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  keep-history: true
+  on:
+    branch: master

@@ -15,7 +15,8 @@ Content
   * Data Transformations - [source](https://github.com/godmode97/wc-training/blob/master/01%20functions#data-transformations)
   * Recursion - [source](https://github.com/godmode97/wc-training/blob/master/01%20functions#recursion)
   * Composition - [source](https://github.com/godmode97/wc-training/blob/master/01%20functions#composition)
-
+* React Best Practices - [reference](https://github.com/markerikson/react-redux-links/blob/master/react-architecture.md)
+  * React Best Practices and Patterns - [reference](http://seanamarasinghe.com/developer/react-best-practices-patterns/)
 Up And Running
 ---
 
@@ -30,3 +31,38 @@ $ node path_to_file/file.js
 
 - Neil James Monzales -  [godmode97](github.com/godmode97)
 
+File Folder Structure
+===
+  - React Directory Structure (`/src`)
+```bash
+.
+├── actions
+│   ├── action_creators.js
+│   ├── constants.js
+│   └── index.js
+├── components
+│   ├── forms
+│   │   └── index.js
+│   ├── index.js
+│   ├── layouts
+│   │   └── index.js
+│   └── page
+│       └── account
+│           └── index.js
+├── index.js
+├── lib
+│   └── helpers.js
+├── resources
+│   ├── css
+│   │   ├── index.css
+│   │   └── styles.css
+│   └── images
+│       ├── logo.svg
+│       └── somefile.svg
+├── serviceWorker.js
+├── store
+│   ├── index.js
+│   └── reducers.js
+└── tests
+    └── App.test.js
+```
