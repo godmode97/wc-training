@@ -1,4 +1,4 @@
-White Cloack Training
+White Cloack Training ![Build Status](https://travis-ci.com/godmode97/wc-training.svg?branch=master)
 ===
 
 About
