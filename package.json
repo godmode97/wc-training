@@ -15,5 +15,8 @@
   "homepage": "https://github.com/godmode97/wc-training#readme",
   "devDependencies": {
     "eslint": "^5.9.0"
+  },
+  "dependencies": {
+    "redux-thunk": "^2.3.0"
   }
 }
