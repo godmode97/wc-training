@@ -115,7 +115,8 @@ mutation{
   deleteUser(id: "1")
 }
 
-returns
+//returns
+
 {
   "data"{
     "addUser": {
