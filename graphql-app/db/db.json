@@ -1,6 +1,11 @@
 {
   "users": [
-    { "id": "02", "firstName": "Neil James", "age": 20 },
-    { "id": "06", "firstName": "Mary Grace", "age": 22 }
+    { "id": "01", "firstName": "Neil James", "age": 20, "companyId": "1" },
+    { "id": "02", "firstName": "Mary Grace", "age": 22, "companyId": "2" },
+    { "id": "03", "firstName": "Racquel", "age": 22, "companyId": "2" }
+  ],
+  "company": [
+    { "id": "1", "name": "Google", "description": "Sample description for Google" },
+    { "id": "2", "name": "Microsoft", "description": "Sample description for Microsoft" }
   ]
 }
