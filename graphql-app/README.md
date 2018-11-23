@@ -56,7 +56,7 @@ GraphQL Query/ies:
   }
 }
 
-returns
+//returns
 
 {
   "data": {
@@ -84,7 +84,7 @@ Query Fragments:
   }
 }
 
-returns
+//returns
 
 {
   "data":{
