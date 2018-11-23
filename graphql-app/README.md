@@ -101,6 +101,40 @@ returns
   }
 }
 ```
+Mutation:
+
+```javascript
+// addUser, editUser, deleteUser
+mutation{
+  addUser(firstName: "Sample User", age: 22){
+    id, firstName, age
+  }
+  editUser(id: "2", firstName: "Edited User", age: 50){
+    id, firstName, age
+  }
+  deleteUser(id: "1")
+}
+
+returns
+{
+  "data"{
+    "addUser": {
+      "id":"3",
+      "firstName":"Sample User",
+      "age":22
+    },
+    "editUser": {
+      "id":"2",
+      "firstName":"Edited User",
+      "age":50
+    },
+    "deleteUser": {
+      "id": null
+    }
+  }
+}
+```
+
 
 Contributor:
 ---
