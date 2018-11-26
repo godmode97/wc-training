@@ -14,4 +14,4 @@ deploy:
   domain: travis-todo-app.surge.sh
   project: todo-application/build
 on:
-  branch: develop
+  branch: master
