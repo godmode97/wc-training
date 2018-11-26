@@ -1,7 +1,17 @@
 language: node_js
-sudo: true
-os: osx
-scripts:
+node_js:
+  - "stable"
+cache:
+  directories:
+    - todo-application/node_modules
+script:
   - cd todo-application
   - npm install
   - npm run build
+deploy:
+  provider: surge
+  skip_cleanup: true
+  domain: travis-todo-app.surge.sh
+  project: todo-application/build
+on:
+  branch: master
